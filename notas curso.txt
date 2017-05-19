@@ -1,0 +1,126 @@
+fernanda ochoa capacitadora:
+email: monsh8a@gmail.com
+twitter: @imonsh
+
+Temas Curso Java Advanced Multithreading con Sockets:
+
+Lunes: Repaso Java POO
+Martes: Excepciones y Multithreading
+Miercoles: Sincronización y Java IO
+Jueves: Networking
+Viernes: Chat
+
+Al final - Examen
+
+Github donde estara todo el curso.
+
+Lunes:
+Conceptos Paradigma:
+	- ObjectClass
+	- Inheritance
+	- Polymorphism
+	- Abstraction
+	- Encapsulation
+
+Objeto: entidad que posee comportamiento, estado y tipo(instacion, asignacion y declaracion)
+herencia: Cuando una entidad adquiere los comportamientos y atributos. (multiple, simple, extended, implements)
+del padre
+polimorfismo: una tarea realiazada de diferentes formas. (poly muchos, mosphos formas)
+abstracto:oculta detalles internos y solo muestra funcionalidad. (arte, simetria, geometria)
+ - datos
+ - contextual
+ - funcional
+encapsulamiento: permite englobar la abstracción funcional del codigo. (capsulas)
+
+
+Entregar:
+- Diagrama UML
+- Algoritmo
+- Pojo
+- Clase de prueba
+- Singleton
+- Interfaces
+- Clase abstracta
+
+--------------------------------------------------------------------------------------------------------------
+Martes 16/05/2017
+Formas de inicializar un objeto:
+ - Variable de referencia.
+ - Por metodo.
+ - Constructor.
+
+Argumento: es solo un valor
+Parametro: son muchos valores(rango)
+
+Constructor:
+
+	Reglas:
+	 - La signatura del constructor debe ser la misma que la de la clase que lo contiene.
+	 - No tiene un valor de retorno explicito.
+	Tipos:
+	 - Default
+	 - Parametrizado
+
+Static
+Existen dos restricciones principales de un metodo estatico
+	- No puede utilizar un dato no estatico o llamar directamente al metodo no estatico
+	- this y super no se pueden utilizar en un contexto estatico.
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Miercoles 17/05/2017
+
+Overload (Sobrecarga)
+	Tipo
+	Cantidad
+Override (redefinicion)
+	mismo nombre
+	mismo tipo
+	mismo args
+Super
+	variable
+	metodo
+	constructor
+abstract
+	clases
+	metodos
+	0%-100%
+	  abstract
+	  extends
+	  implementacion
+
+Excepciones: Condición anormal (Evento que interrumpe el flujo del programa).
+	try
+	catch
+	throw
+	throws
+	finally
+
+Thread, Multithreading, Life cycle thread, Sleeping a thread, Shutdownhook, Daemon, Pull thread, Syncronized
+
+--------------------------------------------------------------------------------------------------------------------
+
+Jueves 18/05/2017
+
+Concurrencia: Dos o mas componentes independientes para realizar una tarea.
+Paralelismo: Dos o mas tares simultaneas.
+Multitarea: Ejecutar dos o mas tareas en paralelo o no.
+
+Thread extends.
+Runnable implements.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Viernes 19/05/2017
+
+git config --global user.name ""
+git config --global user.email ""
+git config --global user.password ""
+git init
+git add
+git commit -m ""
+git remote add origin url
+git push origin master
+
+fernandaOchoa/JavaAdvanced
